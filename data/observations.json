@@ -1,0 +1,20 @@
+[
+  {
+    "event_id": "activity_exposure_schedule-e01",
+    "entity_id": "activity_exposure_schedule-x01",
+    "value": 12,
+    "quality": "complete"
+  },
+  {
+    "event_id": "activity_exposure_schedule-e02",
+    "entity_id": "activity_exposure_schedule-x02",
+    "value": 8,
+    "quality": "partial"
+  },
+  {
+    "event_id": "activity_exposure_schedule-e04",
+    "entity_id": "activity_exposure_schedule-x03",
+    "value": null,
+    "quality": "missing"
+  }
+]

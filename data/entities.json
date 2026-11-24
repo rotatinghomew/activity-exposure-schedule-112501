@@ -1,0 +1,17 @@
+[
+  {
+    "entity_id": "activity_exposure_schedule-x01",
+    "label": "甲村",
+    "active": true
+  },
+  {
+    "entity_id": "activity_exposure_schedule-x02",
+    "label": "乙村",
+    "active": true
+  },
+  {
+    "entity_id": "activity_exposure_schedule-x03",
+    "label": "丙村",
+    "active": false
+  }
+]
